@@ -1,0 +1,3 @@
+image_path,tradition,artist_id,work_id,character
+raw/chinese/001.png,Chinese,cn_artist_01,cn_work_01,永
+raw/japanese/001.png,Japanese,jp_artist_01,jp_work_01,永
